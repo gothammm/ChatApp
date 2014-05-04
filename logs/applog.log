@@ -1,0 +1,340 @@
+[2014-05-04 17:49:01.184] [INFO] applog - App initialized at Sun May 04 2014 17:49:01 GMT+0530 (India Standard Time)
+[2014-05-04 17:50:06.923] [INFO] applog - App initialized at Sun May 04 2014 17:50:06 GMT+0530 (India Standard Time)
+[2014-05-04 17:52:57.389] [INFO] applog - App initialized at Sun May 04 2014 17:52:57 GMT+0530 (India Standard Time)
+[2014-05-04 18:13:11.808] [INFO] applog - App initialized at Sun May 04 2014 18:13:11 GMT+0530 (India Standard Time)
+[2014-05-04 18:25:17.600] [INFO] applog - App initialized at Sun May 04 2014 18:25:17 GMT+0530 (India Standard Time)
+[2014-05-04 18:50:58.363] [INFO] applog - App initialized at Sun May 04 2014 18:50:58 GMT+0530 (India Standard Time)
+[2014-05-04 18:51:35.461] [INFO] applog - App initialized at Sun May 04 2014 18:51:35 GMT+0530 (India Standard Time)
+[2014-05-04 18:57:30.527] [INFO] applog - App initialized at Sun May 04 2014 18:57:30 GMT+0530 (India Standard Time)
+[2014-05-04 19:01:47.003] [INFO] applog - App initialized at Sun May 04 2014 19:01:47 GMT+0530 (India Standard Time)
+[2014-05-04 19:03:56.788] [INFO] applog - App initialized at Sun May 04 2014 19:03:56 GMT+0530 (India Standard Time)
+[2014-05-04 19:41:23.028] [INFO] applog - App initialized at Sun May 04 2014 19:41:23 GMT+0530 (India Standard Time)
+[2014-05-04 19:41:47.982] [INFO] applog - Socket connection initialized
+[2014-05-04 19:41:47.989] [INFO] applog - User connected!
+[2014-05-04 19:45:26.229] [INFO] applog - Socket connection initialized
+[2014-05-04 19:45:26.235] [INFO] applog - User connected!
+[2014-05-04 19:46:00.535] [INFO] applog - Socket connection initialized
+[2014-05-04 19:46:00.543] [INFO] applog - User connected!
+[2014-05-04 19:46:35.614] [INFO] applog - Socket connection initialized
+[2014-05-04 19:46:35.622] [INFO] applog - User connected!
+[2014-05-04 19:52:29.494] [INFO] applog - Socket connection initialized
+[2014-05-04 19:52:29.500] [INFO] applog - User connected!
+[2014-05-04 19:54:32.997] [INFO] applog - App initialized at Sun May 04 2014 19:54:32 GMT+0530 (India Standard Time)
+[2014-05-04 19:54:36.143] [INFO] applog - Socket connection initialized
+[2014-05-04 19:58:20.771] [INFO] applog - Socket connection initialized
+[2014-05-04 19:58:20.780] [INFO] applog - User connected!
+[2014-05-04 19:59:24.139] [INFO] applog - App initialized at Sun May 04 2014 19:59:24 GMT+0530 (India Standard Time)
+[2014-05-04 19:59:38.117] [INFO] applog - Socket connection initialized
+[2014-05-04 19:59:38.133] [INFO] applog - User connected! {"username":"test"}
+[2014-05-04 20:00:31.069] [INFO] applog - App initialized at Sun May 04 2014 20:00:31 GMT+0530 (India Standard Time)
+[2014-05-04 20:01:03.639] [INFO] applog - App initialized at Sun May 04 2014 20:01:03 GMT+0530 (India Standard Time)
+[2014-05-04 20:01:17.459] [INFO] applog - Socket connection initialized
+[2014-05-04 20:01:17.828] [INFO] applog - test has connected! - Sun May 04 2014 20:01:17 GMT+0530 (India Standard Time)
+[2014-05-04 20:01:31.746] [INFO] applog - Socket connection initialized
+[2014-05-04 20:01:31.752] [INFO] applog - test has connected! - Sun May 04 2014 20:01:31 GMT+0530 (India Standard Time)
+[2014-05-04 20:21:43.483] [INFO] applog - App initialized at Sun May 04 2014 20:21:43 GMT+0530 (India Standard Time)
+[2014-05-04 20:21:44.975] [INFO] applog - Socket connection initialized
+[2014-05-04 20:22:17.886] [INFO] applog - App initialized at Sun May 04 2014 20:22:17 GMT+0530 (India Standard Time)
+[2014-05-04 20:22:23.813] [INFO] applog - Socket connection initialized
+[2014-05-04 20:22:23.818] [INFO] applog - test has connected! - Sun May 04 2014 20:22:23 GMT+0530 (India Standard Time)
+[2014-05-04 20:23:07.778] [INFO] applog - App initialized at Sun May 04 2014 20:23:07 GMT+0530 (India Standard Time)
+[2014-05-04 20:23:12.002] [INFO] applog - Socket connection initialized
+[2014-05-04 20:24:04.615] [INFO] applog - App initialized at Sun May 04 2014 20:24:04 GMT+0530 (India Standard Time)
+[2014-05-04 20:24:10.457] [INFO] applog - Socket connection initialized
+[2014-05-04 20:24:10.463] [INFO] applog - test has connected! - Sun May 04 2014 20:24:10 GMT+0530 (India Standard Time)
+[2014-05-04 20:24:17.350] [INFO] applog - App initialized at Sun May 04 2014 20:24:17 GMT+0530 (India Standard Time)
+[2014-05-04 20:24:40.643] [INFO] applog - Socket connection initialized
+[2014-05-04 20:25:35.977] [INFO] applog - App initialized at Sun May 04 2014 20:25:35 GMT+0530 (India Standard Time)
+[2014-05-04 20:25:47.861] [INFO] applog - Socket connection initialized
+[2014-05-04 20:25:50.182] [INFO] applog - test has connected! - Sun May 04 2014 20:25:50 GMT+0530 (India Standard Time)
+[2014-05-04 20:27:01.685] [INFO] applog - Socket connection initialized
+[2014-05-04 20:27:20.367] [INFO] applog - App initialized at Sun May 04 2014 20:27:20 GMT+0530 (India Standard Time)
+[2014-05-04 20:27:22.101] [INFO] applog - Socket connection initialized
+[2014-05-04 20:27:34.541] [INFO] applog - App initialized at Sun May 04 2014 20:27:34 GMT+0530 (India Standard Time)
+[2014-05-04 20:27:40.521] [INFO] applog - Socket connection initialized
+[2014-05-04 20:27:59.041] [INFO] applog - test has connected! - Sun May 04 2014 20:27:59 GMT+0530 (India Standard Time)
+[2014-05-04 20:28:01.957] [INFO] applog - Socket connection initialized
+[2014-05-04 20:28:01.967] [INFO] applog - test has connected! - Sun May 04 2014 20:28:01 GMT+0530 (India Standard Time)
+[2014-05-04 20:28:45.883] [INFO] applog - App initialized at Sun May 04 2014 20:28:45 GMT+0530 (India Standard Time)
+[2014-05-04 20:28:53.884] [INFO] applog - Socket connection initialized
+[2014-05-04 20:28:53.894] [INFO] applog - test has connected! - Sun May 04 2014 20:28:53 GMT+0530 (India Standard Time)
+[2014-05-04 20:30:11.037] [INFO] applog - Socket connection initialized
+[2014-05-04 20:30:11.042] [INFO] applog - test has connected! - Sun May 04 2014 20:30:11 GMT+0530 (India Standard Time)
+[2014-05-04 20:31:22.780] [INFO] applog - Socket connection initialized
+[2014-05-04 20:31:22.785] [INFO] applog - test has connected! - Sun May 04 2014 20:31:22 GMT+0530 (India Standard Time)
+[2014-05-04 20:33:39.779] [INFO] applog - Socket connection initialized
+[2014-05-04 20:33:39.785] [INFO] applog - test has connected! - Sun May 04 2014 20:33:39 GMT+0530 (India Standard Time)
+[2014-05-04 20:33:53.710] [INFO] applog - Socket connection initialized
+[2014-05-04 20:33:53.715] [INFO] applog - test has connected! - Sun May 04 2014 20:33:53 GMT+0530 (India Standard Time)
+[2014-05-04 20:34:53.314] [INFO] applog - App initialized at Sun May 04 2014 20:34:53 GMT+0530 (India Standard Time)
+[2014-05-04 20:35:09.941] [INFO] applog - Socket connection initialized
+[2014-05-04 20:35:09.949] [INFO] applog - test has connected! - Sun May 04 2014 20:35:09 GMT+0530 (India Standard Time)
+[2014-05-04 20:35:21.367] [INFO] applog - Socket connection initialized
+[2014-05-04 20:35:21.376] [INFO] applog - test has connected! - Sun May 04 2014 20:35:21 GMT+0530 (India Standard Time)
+[2014-05-04 20:35:26.141] [INFO] applog - test has disconnected! - Sun May 04 2014 20:35:26 GMT+0530 (India Standard Time)
+[2014-05-04 20:36:52.258] [INFO] applog - App initialized at Sun May 04 2014 20:36:52 GMT+0530 (India Standard Time)
+[2014-05-04 20:36:58.388] [INFO] applog - Socket connection initialized
+[2014-05-04 20:36:58.397] [INFO] applog - test has connected! - Sun May 04 2014 20:36:58 GMT+0530 (India Standard Time)
+[2014-05-04 20:37:13.235] [INFO] applog - Socket connection initialized
+[2014-05-04 20:37:13.243] [INFO] applog - test has connected! - Sun May 04 2014 20:37:13 GMT+0530 (India Standard Time)
+[2014-05-04 20:37:15.267] [INFO] applog - test has disconnected! - Sun May 04 2014 20:37:15 GMT+0530 (India Standard Time)
+[2014-05-04 20:37:22.324] [INFO] applog - Socket connection initialized
+[2014-05-04 20:37:22.337] [INFO] applog - test has connected! - Sun May 04 2014 20:37:22 GMT+0530 (India Standard Time)
+[2014-05-04 20:40:53.634] [INFO] applog - App initialized at Sun May 04 2014 20:40:53 GMT+0530 (India Standard Time)
+[2014-05-04 20:41:00.462] [INFO] applog - Socket connection initialized
+[2014-05-04 20:41:00.468] [INFO] applog - test has connected! - Sun May 04 2014 20:41:00 GMT+0530 (India Standard Time)
+[2014-05-04 20:41:26.503] [INFO] applog - test has disconnected! - Sun May 04 2014 20:41:26 GMT+0530 (India Standard Time)
+[2014-05-04 20:41:27.885] [INFO] applog - Socket connection initialized
+[2014-05-04 20:41:27.890] [INFO] applog - test has connected! - Sun May 04 2014 20:41:27 GMT+0530 (India Standard Time)
+[2014-05-04 20:41:35.360] [INFO] applog - Socket connection initialized
+[2014-05-04 20:41:35.373] [INFO] applog - test has connected! - Sun May 04 2014 20:41:35 GMT+0530 (India Standard Time)
+[2014-05-04 20:41:41.141] [INFO] applog - test has disconnected! - Sun May 04 2014 20:41:41 GMT+0530 (India Standard Time)
+[2014-05-04 20:42:22.977] [INFO] applog - test has disconnected! - Sun May 04 2014 20:42:22 GMT+0530 (India Standard Time)
+[2014-05-04 20:42:24.369] [INFO] applog - Socket connection initialized
+[2014-05-04 20:42:24.377] [INFO] applog - test has connected! - Sun May 04 2014 20:42:24 GMT+0530 (India Standard Time)
+[2014-05-04 20:42:31.154] [INFO] applog - Socket connection initialized
+[2014-05-04 20:42:31.160] [INFO] applog - test has connected! - Sun May 04 2014 20:42:31 GMT+0530 (India Standard Time)
+[2014-05-04 20:42:34.500] [INFO] applog - test has disconnected! - Sun May 04 2014 20:42:34 GMT+0530 (India Standard Time)
+[2014-05-04 20:42:39.501] [INFO] applog - test has disconnected! - Sun May 04 2014 20:42:39 GMT+0530 (India Standard Time)
+[2014-05-04 20:42:40.848] [INFO] applog - Socket connection initialized
+[2014-05-04 20:42:40.856] [INFO] applog - test has connected! - Sun May 04 2014 20:42:40 GMT+0530 (India Standard Time)
+[2014-05-04 20:49:31.537] [INFO] applog - App initialized at Sun May 04 2014 20:49:31 GMT+0530 (India Standard Time)
+[2014-05-04 20:49:33.128] [INFO] applog - Socket connection initialized
+[2014-05-04 20:49:37.196] [INFO] applog - 127.0.0.1
+[2014-05-04 20:49:40.077] [INFO] applog - Socket connection initialized
+[2014-05-04 20:49:40.086] [INFO] applog - test has connected! - Sun May 04 2014 20:49:40 GMT+0530 (India Standard Time)
+[2014-05-04 21:00:55.391] [INFO] applog - App initialized at Sun May 04 2014 21:00:55 GMT+0530 (India Standard Time)
+[2014-05-04 21:01:33.627] [INFO] applog - App initialized at Sun May 04 2014 21:01:33 GMT+0530 (India Standard Time)
+[2014-05-04 21:04:04.865] [INFO] applog - App initialized at Sun May 04 2014 21:04:04 GMT+0530 (India Standard Time)
+[2014-05-04 21:04:34.806] [INFO] applog - App initialized at Sun May 04 2014 21:04:34 GMT+0530 (India Standard Time)
+[2014-05-04 21:04:37.481] [INFO] applog - 127.0.0.1
+[2014-05-04 21:04:41.437] [INFO] applog - 127.0.0.1
+[2014-05-04 21:04:44.732] [INFO] applog - Socket connection initialized
+[2014-05-04 21:04:44.735] [INFO] applog - { address: '127.0.0.1', port: 64919 }
+[2014-05-04 21:04:44.747] [INFO] applog - test has connected! - Sun May 04 2014 21:04:44 GMT+0530 (India Standard Time)
+[2014-05-04 21:07:33.856] [INFO] applog - App initialized at Sun May 04 2014 21:07:33 GMT+0530 (India Standard Time)
+[2014-05-04 21:07:35.551] [INFO] applog - Socket connection initialized
+[2014-05-04 21:07:37.617] [INFO] applog - 127.0.0.1
+[2014-05-04 21:07:40.280] [INFO] applog - Socket connection initialized
+[2014-05-04 21:07:40.288] [INFO] applog - test has connected! - Sun May 04 2014 21:07:40 GMT+0530 (India Standard Time)
+[2014-05-04 21:07:48.600] [INFO] applog - App initialized at Sun May 04 2014 21:07:48 GMT+0530 (India Standard Time)
+[2014-05-04 21:07:51.599] [INFO] applog - Socket connection initialized
+[2014-05-04 21:07:57.610] [INFO] applog - 127.0.0.1
+[2014-05-04 21:08:00.290] [INFO] applog - Socket connection initialized
+[2014-05-04 21:08:00.304] [INFO] applog - test has connected! - Sun May 04 2014 21:08:00 GMT+0530 (India Standard Time)
+[2014-05-04 21:08:54.312] [INFO] applog - App initialized at Sun May 04 2014 21:08:54 GMT+0530 (India Standard Time)
+[2014-05-04 21:08:59.241] [INFO] applog - 127.0.0.1
+[2014-05-04 21:09:02.527] [INFO] applog - Socket connection initialized
+[2014-05-04 21:09:02.539] [INFO] applog - test has connected! - Sun May 04 2014 21:09:02 GMT+0530 (India Standard Time)
+[2014-05-04 21:11:30.171] [INFO] applog - App initialized at Sun May 04 2014 21:11:30 GMT+0530 (India Standard Time)
+[2014-05-04 21:11:31.869] [INFO] applog - Socket connection initialized
+[2014-05-04 21:11:33.343] [INFO] applog - 127.0.0.1
+[2014-05-04 21:11:36.068] [INFO] applog - Socket connection initialized
+[2014-05-04 21:11:36.078] [INFO] applog - test has connected! - Sun May 04 2014 21:11:36 GMT+0530 (India Standard Time)
+[2014-05-04 21:12:44.280] [INFO] applog - App initialized at Sun May 04 2014 21:12:44 GMT+0530 (India Standard Time)
+[2014-05-04 21:12:49.026] [INFO] applog - Socket connection initialized
+[2014-05-04 21:12:49.708] [INFO] applog - 127.0.0.1
+[2014-05-04 21:12:52.438] [INFO] applog - Socket connection initialized
+[2014-05-04 21:12:52.448] [INFO] applog - test has connected! - Sun May 04 2014 21:12:52 GMT+0530 (India Standard Time)
+[2014-05-04 21:13:03.777] [INFO] applog - 127.0.0.1
+[2014-05-04 21:13:05.276] [INFO] applog - Socket connection initialized
+[2014-05-04 21:13:05.290] [INFO] applog - test has connected! - Sun May 04 2014 21:13:05 GMT+0530 (India Standard Time)
+[2014-05-04 21:13:12.920] [INFO] applog - Socket connection initialized
+[2014-05-04 21:13:12.926] [INFO] applog - test has connected! - Sun May 04 2014 21:13:12 GMT+0530 (India Standard Time)
+[2014-05-04 21:13:21.523] [INFO] applog - test has disconnected! - Sun May 04 2014 21:13:21 GMT+0530 (India Standard Time)
+[2014-05-04 21:17:03.174] [INFO] applog - 127.0.0.1
+[2014-05-04 21:17:04.693] [INFO] applog - Socket connection initialized
+[2014-05-04 21:17:04.701] [INFO] applog - test has connected! - Sun May 04 2014 21:17:04 GMT+0530 (India Standard Time)
+[2014-05-04 21:17:10.718] [INFO] applog - App initialized at Sun May 04 2014 21:17:10 GMT+0530 (India Standard Time)
+[2014-05-04 21:17:20.034] [INFO] applog - 127.0.0.1
+[2014-05-04 21:17:23.558] [INFO] applog - Socket connection initialized
+[2014-05-04 21:17:23.582] [INFO] applog - test has connected! - Sun May 04 2014 21:17:23 GMT+0530 (India Standard Time)
+[2014-05-04 21:17:34.149] [INFO] applog - Socket connection initialized
+[2014-05-04 21:17:34.154] [INFO] applog - test has connected! - Sun May 04 2014 21:17:34 GMT+0530 (India Standard Time)
+[2014-05-04 21:17:49.982] [INFO] applog - test has disconnected! - Sun May 04 2014 21:17:49 GMT+0530 (India Standard Time)
+[2014-05-04 21:18:30.963] [INFO] applog - App initialized at Sun May 04 2014 21:18:30 GMT+0530 (India Standard Time)
+[2014-05-04 21:18:38.796] [INFO] applog - 127.0.0.1
+[2014-05-04 21:18:41.856] [INFO] applog - Socket connection initialized
+[2014-05-04 21:18:41.864] [INFO] applog - test has connected! - Sun May 04 2014 21:18:41 GMT+0530 (India Standard Time)
+[2014-05-04 21:18:49.800] [INFO] applog - Socket connection initialized
+[2014-05-04 21:18:49.807] [INFO] applog - test has connected! - Sun May 04 2014 21:18:49 GMT+0530 (India Standard Time)
+[2014-05-04 21:18:52.362] [INFO] applog - test has disconnected! - Sun May 04 2014 21:18:52 GMT+0530 (India Standard Time)
+[2014-05-04 21:19:31.370] [INFO] applog - App initialized at Sun May 04 2014 21:19:31 GMT+0530 (India Standard Time)
+[2014-05-04 21:19:43.835] [INFO] applog - 127.0.0.1
+[2014-05-04 21:19:46.935] [INFO] applog - Socket connection initialized
+[2014-05-04 21:19:46.954] [INFO] applog - test has connected! - Sun May 04 2014 21:19:46 GMT+0530 (India Standard Time)
+[2014-05-04 21:19:52.851] [INFO] applog - Socket connection initialized
+[2014-05-04 21:19:52.857] [INFO] applog - test has connected! - Sun May 04 2014 21:19:52 GMT+0530 (India Standard Time)
+[2014-05-04 21:19:55.322] [INFO] applog - test has disconnected! - Sun May 04 2014 21:19:55 GMT+0530 (India Standard Time)
+[2014-05-04 21:22:46.107] [INFO] applog - 127.0.0.1
+[2014-05-04 21:22:47.543] [INFO] applog - Socket connection initialized
+[2014-05-04 21:22:47.553] [INFO] applog - test has connected! - Sun May 04 2014 21:22:47 GMT+0530 (India Standard Time)
+[2014-05-04 21:22:51.663] [INFO] applog - 127.0.0.1
+[2014-05-04 21:22:51.690] [INFO] applog - test has disconnected! - Sun May 04 2014 21:22:51 GMT+0530 (India Standard Time)
+[2014-05-04 21:22:53.241] [INFO] applog - Socket connection initialized
+[2014-05-04 21:22:53.246] [INFO] applog - test has connected! - Sun May 04 2014 21:22:53 GMT+0530 (India Standard Time)
+[2014-05-04 21:23:24.121] [INFO] applog - 127.0.0.1
+[2014-05-04 21:23:24.161] [INFO] applog - test has disconnected! - Sun May 04 2014 21:23:24 GMT+0530 (India Standard Time)
+[2014-05-04 21:23:25.720] [INFO] applog - Socket connection initialized
+[2014-05-04 21:23:25.730] [INFO] applog - test has connected! - Sun May 04 2014 21:23:25 GMT+0530 (India Standard Time)
+[2014-05-04 21:26:06.339] [INFO] applog - 127.0.0.1
+[2014-05-04 21:26:06.367] [INFO] applog - test has disconnected! - Sun May 04 2014 21:26:06 GMT+0530 (India Standard Time)
+[2014-05-04 21:26:07.732] [INFO] applog - Socket connection initialized
+[2014-05-04 21:26:07.738] [INFO] applog - test has connected! - Sun May 04 2014 21:26:07 GMT+0530 (India Standard Time)
+[2014-05-04 21:27:24.192] [INFO] applog - test has disconnected! - Sun May 04 2014 21:27:24 GMT+0530 (India Standard Time)
+[2014-05-04 21:27:26.888] [INFO] applog - 127.0.0.1
+[2014-05-04 21:27:28.307] [INFO] applog - Socket connection initialized
+[2014-05-04 21:27:28.316] [INFO] applog - test has connected! - Sun May 04 2014 21:27:28 GMT+0530 (India Standard Time)
+[2014-05-04 21:34:46.072] [INFO] applog - App initialized at Sun May 04 2014 21:34:46 GMT+0530 (India Standard Time)
+[2014-05-04 21:34:47.857] [INFO] applog - Socket connection initialized
+[2014-05-04 21:34:50.763] [INFO] applog - 127.0.0.1
+[2014-05-04 21:34:53.302] [INFO] applog - Socket connection initialized
+[2014-05-04 21:34:53.311] [INFO] applog - test has connected! - Sun May 04 2014 21:34:53 GMT+0530 (India Standard Time)
+[2014-05-04 21:35:37.510] [INFO] applog - 127.0.0.1
+[2014-05-04 21:35:37.552] [INFO] applog - test has disconnected! - Sun May 04 2014 21:35:37 GMT+0530 (India Standard Time)
+[2014-05-04 21:35:39.027] [INFO] applog - Socket connection initialized
+[2014-05-04 21:35:39.045] [INFO] applog - test has connected! - Sun May 04 2014 21:35:39 GMT+0530 (India Standard Time)
+[2014-05-04 21:35:43.950] [INFO] applog - 127.0.0.1
+[2014-05-04 21:35:43.982] [INFO] applog - test has disconnected! - Sun May 04 2014 21:35:43 GMT+0530 (India Standard Time)
+[2014-05-04 21:35:45.361] [INFO] applog - Socket connection initialized
+[2014-05-04 21:35:45.370] [INFO] applog - test has connected! - Sun May 04 2014 21:35:45 GMT+0530 (India Standard Time)
+[2014-05-04 21:36:39.190] [INFO] applog - 127.0.0.1
+[2014-05-04 21:36:39.230] [INFO] applog - test has disconnected! - Sun May 04 2014 21:36:39 GMT+0530 (India Standard Time)
+[2014-05-04 21:36:40.574] [INFO] applog - Socket connection initialized
+[2014-05-04 21:36:40.581] [INFO] applog - test has connected! - Sun May 04 2014 21:36:40 GMT+0530 (India Standard Time)
+[2014-05-04 21:37:10.762] [INFO] applog - 127.0.0.1
+[2014-05-04 21:37:24.685] [INFO] applog - 127.0.0.1
+[2014-05-04 21:37:25.172] [INFO] applog - Socket connection initialized
+[2014-05-04 21:37:25.181] [INFO] applog - test has connected! - Sun May 04 2014 21:37:25 GMT+0530 (India Standard Time)
+[2014-05-04 21:38:28.362] [INFO] applog - test has disconnected! - Sun May 04 2014 21:38:28 GMT+0530 (India Standard Time)
+[2014-05-04 21:38:45.056] [INFO] applog - 127.0.0.1
+[2014-05-04 21:38:45.427] [INFO] applog - Socket connection initialized
+[2014-05-04 21:38:45.435] [INFO] applog - test has connected! - Sun May 04 2014 21:38:45 GMT+0530 (India Standard Time)
+[2014-05-04 21:38:54.254] [INFO] applog - test has disconnected! - Sun May 04 2014 21:38:54 GMT+0530 (India Standard Time)
+[2014-05-04 21:38:57.229] [INFO] applog - Socket connection initialized
+[2014-05-04 21:38:57.235] [INFO] applog - test has connected! - Sun May 04 2014 21:38:57 GMT+0530 (India Standard Time)
+[2014-05-04 21:39:06.469] [INFO] applog - 127.0.0.1
+[2014-05-04 21:39:06.735] [INFO] applog - test has disconnected! - Sun May 04 2014 21:39:06 GMT+0530 (India Standard Time)
+[2014-05-04 21:39:15.776] [INFO] applog - 127.0.0.1
+[2014-05-04 21:39:16.153] [INFO] applog - Socket connection initialized
+[2014-05-04 21:39:16.162] [INFO] applog - test2 has connected! - Sun May 04 2014 21:39:16 GMT+0530 (India Standard Time)
+[2014-05-04 21:39:54.560] [INFO] applog - App initialized at Sun May 04 2014 21:39:54 GMT+0530 (India Standard Time)
+[2014-05-04 21:39:57.256] [INFO] applog - 127.0.0.1
+[2014-05-04 21:40:00.662] [INFO] applog - Socket connection initialized
+[2014-05-04 21:40:00.672] [INFO] applog - test has connected! - Sun May 04 2014 21:40:00 GMT+0530 (India Standard Time)
+[2014-05-04 21:40:01.160] [INFO] applog - Socket connection initialized
+[2014-05-04 21:40:04.712] [INFO] applog - 127.0.0.1
+[2014-05-04 21:40:05.998] [INFO] applog - Socket connection initialized
+[2014-05-04 21:40:06.006] [INFO] applog - test2 has connected! - Sun May 04 2014 21:40:06 GMT+0530 (India Standard Time)
+[2014-05-04 21:47:41.515] [INFO] applog - 127.0.0.1
+[2014-05-04 21:47:41.544] [INFO] applog - test has disconnected! - Sun May 04 2014 21:47:41 GMT+0530 (India Standard Time)
+[2014-05-04 21:47:43.020] [INFO] applog - Socket connection initialized
+[2014-05-04 21:47:43.029] [INFO] applog - test has connected! - Sun May 04 2014 21:47:43 GMT+0530 (India Standard Time)
+[2014-05-04 21:49:51.433] [INFO] applog - App initialized at Sun May 04 2014 21:49:51 GMT+0530 (India Standard Time)
+[2014-05-04 21:49:53.597] [INFO] applog - Socket connection initialized
+[2014-05-04 21:49:55.436] [INFO] applog - 127.0.0.1
+[2014-05-04 21:49:56.682] [INFO] applog - Socket connection initialized
+[2014-05-04 21:49:56.692] [INFO] applog - test2 has connected! - Sun May 04 2014 21:49:56 GMT+0530 (India Standard Time)
+[2014-05-04 21:50:04.017] [INFO] applog - 127.0.0.1
+[2014-05-04 21:50:06.539] [INFO] applog - Socket connection initialized
+[2014-05-04 21:50:06.547] [INFO] applog - test has connected! - Sun May 04 2014 21:50:06 GMT+0530 (India Standard Time)
+[2014-05-04 21:50:16.264] [INFO] applog - 127.0.0.1
+[2014-05-04 21:50:16.296] [INFO] applog - test has disconnected! - Sun May 04 2014 21:50:16 GMT+0530 (India Standard Time)
+[2014-05-04 21:50:17.687] [INFO] applog - Socket connection initialized
+[2014-05-04 21:50:17.696] [INFO] applog - test has connected! - Sun May 04 2014 21:50:17 GMT+0530 (India Standard Time)
+[2014-05-04 21:52:41.167] [INFO] applog - 127.0.0.1
+[2014-05-04 21:52:42.487] [INFO] applog - Socket connection initialized
+[2014-05-04 21:52:42.502] [INFO] applog - test2 has connected! - Sun May 04 2014 21:52:42 GMT+0530 (India Standard Time)
+[2014-05-04 21:52:57.920] [INFO] applog - 127.0.0.1
+[2014-05-04 21:52:57.951] [INFO] applog - test2 has disconnected! - Sun May 04 2014 21:52:57 GMT+0530 (India Standard Time)
+[2014-05-04 21:52:59.203] [INFO] applog - Socket connection initialized
+[2014-05-04 21:52:59.214] [INFO] applog - test2 has connected! - Sun May 04 2014 21:52:59 GMT+0530 (India Standard Time)
+[2014-05-04 21:53:03.080] [INFO] applog - 127.0.0.1
+[2014-05-04 21:53:03.107] [INFO] applog - test2 has disconnected! - Sun May 04 2014 21:53:03 GMT+0530 (India Standard Time)
+[2014-05-04 21:53:04.319] [INFO] applog - Socket connection initialized
+[2014-05-04 21:53:04.326] [INFO] applog - test2 has connected! - Sun May 04 2014 21:53:04 GMT+0530 (India Standard Time)
+[2014-05-04 21:59:45.266] [INFO] applog - App initialized at Sun May 04 2014 21:59:45 GMT+0530 (India Standard Time)
+[2014-05-04 21:59:45.967] [INFO] applog - Socket connection initialized
+[2014-05-04 21:59:46.966] [INFO] applog - Socket connection initialized
+[2014-05-04 21:59:47.846] [INFO] applog - 127.0.0.1
+[2014-05-04 21:59:49.160] [INFO] applog - Socket connection initialized
+[2014-05-04 21:59:49.170] [INFO] applog - test2 has connected! - Sun May 04 2014 21:59:49 GMT+0530 (India Standard Time)
+[2014-05-04 21:59:51.815] [INFO] applog - 127.0.0.1
+[2014-05-04 21:59:54.810] [INFO] applog - Socket connection initialized
+[2014-05-04 21:59:54.818] [INFO] applog - test has connected! - Sun May 04 2014 21:59:54 GMT+0530 (India Standard Time)
+[2014-05-04 22:00:39.739] [INFO] applog - test2 has disconnected! - Sun May 04 2014 22:00:39 GMT+0530 (India Standard Time)
+[2014-05-04 22:00:54.129] [INFO] applog - 127.0.0.1
+[2014-05-04 22:00:54.161] [INFO] applog - test has disconnected! - Sun May 04 2014 22:00:54 GMT+0530 (India Standard Time)
+[2014-05-04 22:00:55.518] [INFO] applog - Socket connection initialized
+[2014-05-04 22:00:55.525] [INFO] applog - test has connected! - Sun May 04 2014 22:00:55 GMT+0530 (India Standard Time)
+[2014-05-04 22:01:03.196] [INFO] applog - Socket connection initialized
+[2014-05-04 22:01:03.205] [INFO] applog - test2 has connected! - Sun May 04 2014 22:01:03 GMT+0530 (India Standard Time)
+[2014-05-04 22:01:06.555] [INFO] applog - 127.0.0.1
+[2014-05-04 22:01:06.586] [INFO] applog - test2 has disconnected! - Sun May 04 2014 22:01:06 GMT+0530 (India Standard Time)
+[2014-05-04 22:01:07.800] [INFO] applog - Socket connection initialized
+[2014-05-04 22:01:07.806] [INFO] applog - test2 has connected! - Sun May 04 2014 22:01:07 GMT+0530 (India Standard Time)
+[2014-05-04 22:01:18.679] [INFO] applog - test2 has disconnected! - Sun May 04 2014 22:01:18 GMT+0530 (India Standard Time)
+[2014-05-04 22:02:35.993] [INFO] applog - App initialized at Sun May 04 2014 22:02:35 GMT+0530 (India Standard Time)
+[2014-05-04 22:02:53.361] [INFO] applog - 127.0.0.1
+[2014-05-04 22:02:56.549] [INFO] applog - Socket connection initialized
+[2014-05-04 22:02:56.557] [INFO] applog - test has connected! - Sun May 04 2014 22:02:56 GMT+0530 (India Standard Time)
+[2014-05-04 22:07:32.631] [INFO] applog - 127.0.0.1
+[2014-05-04 22:07:32.690] [INFO] applog - test has disconnected! - Sun May 04 2014 22:07:32 GMT+0530 (India Standard Time)
+[2014-05-04 22:07:34.318] [INFO] applog - Socket connection initialized
+[2014-05-04 22:07:34.325] [INFO] applog - test has connected! - Sun May 04 2014 22:07:34 GMT+0530 (India Standard Time)
+[2014-05-04 22:07:39.087] [INFO] applog - 127.0.0.1
+[2014-05-04 22:07:39.115] [INFO] applog - test has disconnected! - Sun May 04 2014 22:07:39 GMT+0530 (India Standard Time)
+[2014-05-04 22:07:40.496] [INFO] applog - Socket connection initialized
+[2014-05-04 22:07:40.504] [INFO] applog - test has connected! - Sun May 04 2014 22:07:40 GMT+0530 (India Standard Time)
+[2014-05-04 22:08:34.936] [INFO] applog - 127.0.0.1
+[2014-05-04 22:08:34.963] [INFO] applog - test has disconnected! - Sun May 04 2014 22:08:34 GMT+0530 (India Standard Time)
+[2014-05-04 22:08:36.364] [INFO] applog - Socket connection initialized
+[2014-05-04 22:08:36.373] [INFO] applog - test has connected! - Sun May 04 2014 22:08:36 GMT+0530 (India Standard Time)
+[2014-05-04 22:09:24.916] [INFO] applog - 127.0.0.1
+[2014-05-04 22:09:24.946] [INFO] applog - test has disconnected! - Sun May 04 2014 22:09:24 GMT+0530 (India Standard Time)
+[2014-05-04 22:09:26.426] [INFO] applog - Socket connection initialized
+[2014-05-04 22:09:26.436] [INFO] applog - test has connected! - Sun May 04 2014 22:09:26 GMT+0530 (India Standard Time)
+[2014-05-04 22:09:48.154] [INFO] applog - 127.0.0.1
+[2014-05-04 22:09:48.192] [INFO] applog - test has disconnected! - Sun May 04 2014 22:09:48 GMT+0530 (India Standard Time)
+[2014-05-04 22:09:49.562] [INFO] applog - Socket connection initialized
+[2014-05-04 22:09:49.572] [INFO] applog - test has connected! - Sun May 04 2014 22:09:49 GMT+0530 (India Standard Time)
+[2014-05-04 22:10:49.991] [INFO] applog - 127.0.0.1
+[2014-05-04 22:10:50.055] [INFO] applog - test has disconnected! - Sun May 04 2014 22:10:50 GMT+0530 (India Standard Time)
+[2014-05-04 22:10:51.475] [INFO] applog - Socket connection initialized
+[2014-05-04 22:10:51.488] [INFO] applog - test has connected! - Sun May 04 2014 22:10:51 GMT+0530 (India Standard Time)
+[2014-05-04 22:11:03.741] [INFO] applog - 127.0.0.1
+[2014-05-04 22:11:03.811] [INFO] applog - test has disconnected! - Sun May 04 2014 22:11:03 GMT+0530 (India Standard Time)
+[2014-05-04 22:11:05.249] [INFO] applog - Socket connection initialized
+[2014-05-04 22:11:05.255] [INFO] applog - test has connected! - Sun May 04 2014 22:11:05 GMT+0530 (India Standard Time)
+[2014-05-04 22:16:16.687] [INFO] applog - App initialized at Sun May 04 2014 22:16:16 GMT+0530 (India Standard Time)
+[2014-05-04 22:16:18.345] [INFO] applog - Socket connection initialized
+[2014-05-04 22:16:20.916] [INFO] applog - 127.0.0.1
+[2014-05-04 22:16:23.469] [INFO] applog - Socket connection initialized
+[2014-05-04 22:16:23.477] [INFO] applog - test has connected! - Sun May 04 2014 22:16:23 GMT+0530 (India Standard Time)
+[2014-05-04 22:17:02.745] [INFO] applog - 127.0.0.1
+[2014-05-04 22:17:02.793] [INFO] applog - test has disconnected! - Sun May 04 2014 22:17:02 GMT+0530 (India Standard Time)
+[2014-05-04 22:17:04.403] [INFO] applog - Socket connection initialized
+[2014-05-04 22:17:04.411] [INFO] applog - test has connected! - Sun May 04 2014 22:17:04 GMT+0530 (India Standard Time)
+[2014-05-04 22:19:16.581] [INFO] applog - 127.0.0.1
+[2014-05-04 22:19:17.087] [INFO] applog - Socket connection initialized
+[2014-05-04 22:19:17.092] [INFO] applog - test2 has connected! - Sun May 04 2014 22:19:17 GMT+0530 (India Standard Time)
+[2014-05-04 22:20:19.126] [INFO] applog - test2 has disconnected! - Sun May 04 2014 22:20:19 GMT+0530 (India Standard Time)
+[2014-05-04 22:20:20.169] [INFO] applog - 127.0.0.1
+[2014-05-04 22:20:20.684] [INFO] applog - Socket connection initialized
+[2014-05-04 22:20:20.692] [INFO] applog - test2 has connected! - Sun May 04 2014 22:20:20 GMT+0530 (India Standard Time)
+[2014-05-04 22:20:23.351] [INFO] applog - 127.0.0.1
+[2014-05-04 22:20:23.380] [INFO] applog - test has disconnected! - Sun May 04 2014 22:20:23 GMT+0530 (India Standard Time)
+[2014-05-04 22:20:24.769] [INFO] applog - Socket connection initialized
+[2014-05-04 22:20:24.780] [INFO] applog - test has connected! - Sun May 04 2014 22:20:24 GMT+0530 (India Standard Time)
+[2014-05-04 22:20:29.513] [INFO] applog - test has disconnected! - Sun May 04 2014 22:20:29 GMT+0530 (India Standard Time)
+[2014-05-04 22:20:37.475] [INFO] applog - 127.0.0.1
+[2014-05-04 22:20:38.895] [INFO] applog - Socket connection initialized
+[2014-05-04 22:20:38.909] [INFO] applog - test has connected! - Sun May 04 2014 22:20:38 GMT+0530 (India Standard Time)
+[2014-05-04 22:20:48.550] [INFO] applog - test2 has disconnected! - Sun May 04 2014 22:20:48 GMT+0530 (India Standard Time)
+[2014-05-04 22:23:40.039] [INFO] applog - 127.0.0.1
+[2014-05-04 22:23:40.097] [INFO] applog - test has disconnected! - Sun May 04 2014 22:23:40 GMT+0530 (India Standard Time)
+[2014-05-04 22:23:53.962] [INFO] applog - App initialized at Sun May 04 2014 22:23:53 GMT+0530 (India Standard Time)
+[2014-05-04 22:24:01.068] [INFO] applog - 127.0.0.1
+[2014-05-04 22:24:04.474] [INFO] applog - Socket connection initialized
+[2014-05-04 22:24:04.481] [INFO] applog - test has connected! - Sun May 04 2014 22:24:04 GMT+0530 (India Standard Time)
+[2014-05-04 22:24:17.543] [INFO] applog - test has disconnected! - Sun May 04 2014 22:24:17 GMT+0530 (India Standard Time)

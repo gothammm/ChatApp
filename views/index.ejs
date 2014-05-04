@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Chat App!</title>
+    <link href="/contents/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <nav class="navbar navbar-inverse" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-9">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">Chat App!</a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-9">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+          </ul>
+          <p class="navbar-text navbar-right">Signed in as <a href="#" id="username-badge" class="navbar-link"><%= username %></a></p>
+          <div class="pull-right" style="padding: 5px;">
+            <button class="btn btn-primary" onclick="window.location = '/logout';">Logout</button>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <div class="panel panel-default" style="margin: 10px;">
+        <div style="width: 29%" class="pull-left">
+            <div class="panel panel-primary" style="margin: 10px;">
+                <div class="panel-heading" style="height: 45px;">
+                    Connected user's info.
+                </div>
+                <div class="panel-body" id="clients-city-panel">
+                </div>
+            </div>
+        </div>
+        <div style="width: 69%" class="pull-right">
+            <div class="panel panel-primary" style="margin: 10px;">
+                <div class="panel-heading" style="height: 45px;">
+                   <div class="pull-left" id="clientscount">
+                   </div>
+                   <div class="pull-right" id="chatbar" style="margin-top: -13px;">
+                        <div class="navbar-form navbar-left" role="search">
+                            <input type="text" id="messagetxt" class="form-control" placeholder="Message">
+                            <button id="sendmessagebtn" class="btn btn-success">Send</button>
+                        </div>
+                   </div>
+                </div>
+                <div class="panel-body" id="message-panel">
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/contents/js/bootstrap.min.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        $(document).ready(function () {
+            var me = this;
+            $("#chatbar").hide();
+            $('#messagetxt').bind("enterKey", function (e) {
+                me.sendMessage($("#messagetxt").val());
+            });
+            $('#messagetxt').keyup(function (e) {
+                if (e.keyCode == 13) {
+                    $(this).trigger("enterKey");
+                }
+            });
+            $('#sendmessagebtn').click(function () {
+                me.sendMessage($("#messagetxt").val());
+            });
+            me.userData = { username: decodeURIComponent(getCookie('username')), userid: decodeURIComponent(getCookie('userid')) };
+            me.socket = io.connect("http://localhost:3000");
+            me.socket.emit('user connect', {
+                username: me.userData.username
+            });
+            me.socket.on('userHasJoined', function (obj) {
+                if (obj.username == me.userData.username) {
+                    $("#chatbar").show();
+                    appendMessage("You are connected!");
+                }
+                else {
+                    appendMessage(obj.username + " has joined!");
+                }
+                $("#clientscount").text("Number of users online:" + obj.count);
+                if (obj.citydata) {
+                    appendCityData(obj.citydata);
+                }
+            });
+            me.socket.on('userLeft', function (obj) {
+                if (obj.username == me.userData.username) {
+                    $("#chatbar").show();
+                    appendMessage("You have disconnected!");
+                }
+                else {
+                    appendMessage(obj.username + " has disconnected!");
+                }
+                $("#clientscount").text("Number of users online:" + obj.count);
+                if (obj.citydata) {
+                    appendCityData(obj.citydata);
+                }
+            });
+            me.socket.on('receivemessage', function (obj) {
+                if (obj.username == me.userData.username) {
+                    appendUserMessage("You", obj.message);
+                }
+                else {
+                    appendUserMessage(obj.username, obj.message);
+                }
+            });
+            me.sendMessage = function (message) {
+                $("#messagetxt").val("");
+                if (message) {
+                    me.socket.emit('sendmessage', {
+                        message: message
+                    });
+                }
+            };
+        });
+        function appendCityData(citydata) {
+            if (citydata) {
+                $('#clients-city-panel').empty();
+                for (var i = 0; i < citydata.length; i++) {
+                    var city = citydata[i];
+                    $('#clients-city-panel').append("<div style='margin:5px;'><span style='font-weight:bold;'>" + city.name + ":</span> " + city.numberofusers + "</div>");
+                }
+            }
+        }
+        function appendMessage(message) {
+            $('#message-panel').append("<div style='margin:5px;font-weight:bold;'>" + message + "</div>");
+        }
+        function appendUserMessage(username, message) {
+            $("#message-panel").append("<div style='margin:5px;'><span style='font-weight:bold;'>" + username + ":</span> " + message + "</div>");
+        }
+        function getCookie(name) {
+            var value = "; " + document.cookie;
+            var parts = value.split("; " + name + "=");
+            if (parts.length == 2) return parts.pop().split(";").shift();
+        }
+    </script>
+ </body>
+</html>

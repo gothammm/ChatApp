@@ -1,0 +1,20 @@
+{
+  "name": "ChatApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "~4.0.0",
+    "static-favicon": "~1.0.0",
+    "cookie-parser": "~1.0.1",
+    "body-parser": "~1.0.0",
+    "debug": "~0.7.4",
+    "ejs": "*",
+    "satelize":"*",
+    "socket.io": "~0.9.16",
+    "mongodb": "~1.4.0",
+    "log4js":"~0.6.14"
+  }
+}
